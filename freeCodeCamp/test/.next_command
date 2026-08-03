@@ -191,3 +191,5 @@ rm background.jpg
 ls --color=auto
 mv header.png images
 cp header.png images
+cp footer.png images
+cp footer.jpeg images
