@@ -174,3 +174,5 @@ ls --color=auto
 __vsc_prompt_cmd_original
 touch codeAlly.svg
 touch CodeAlly.svg
+rm codeAlly.svg
+touch CodeRoad.svg
