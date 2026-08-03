@@ -153,3 +153,4 @@ touch .gitignore
 ls --color=auto
 s --help
 ls --color=auto --help
+ls --color=auto -a
