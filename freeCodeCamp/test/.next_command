@@ -136,3 +136,4 @@ cd node_modules
 pwd
 cd .
 cd ..
+cd ../..
