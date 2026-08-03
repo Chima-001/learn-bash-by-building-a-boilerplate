@@ -312,3 +312,4 @@ rmdir fonts
 rm --help
 rm -r ./website/fonts
 rm -r fonts
+ls --color=auto
