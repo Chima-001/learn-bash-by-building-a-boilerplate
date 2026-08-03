@@ -308,3 +308,5 @@ touch ./client/assets/fonts/lato-light.ttf
 rm ./client/assets/fonts/lato-light.tff
 find ./client/assets/fonts
 find
+rmdir fonts
+rm --help
