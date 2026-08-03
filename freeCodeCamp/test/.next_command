@@ -201,3 +201,4 @@ ls --color=auto
 rm header.png
 rm footer.jeg
 rm footer.jpeg
+ls --color=auto
