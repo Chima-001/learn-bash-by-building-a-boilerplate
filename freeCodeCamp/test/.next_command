@@ -154,3 +154,11 @@ ls --color=auto
 s --help
 ls --color=auto --help
 ls --color=auto -a
+cd ..
+cd .
+.
+cd .
+cd .
+pwd
+cd website
+cd .
