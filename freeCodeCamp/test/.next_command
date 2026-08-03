@@ -236,3 +236,5 @@ find -name src
 find
 find name website
 cd client
+mkdir assests
+mkdir assets
