@@ -293,3 +293,4 @@ mv CodeAlly.svg client/assets/icons
 find -name CodeAlly.svg
 find -name icons
 mv CodeAlly.svg client/assets/icons
+find
