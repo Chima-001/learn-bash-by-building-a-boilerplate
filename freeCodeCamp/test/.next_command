@@ -97,3 +97,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 building, open the command palette again and enter CodeRoad: Start
 building, open the command palette again and enter CodeRoad: Start
 echo hello terminal
+pwd
