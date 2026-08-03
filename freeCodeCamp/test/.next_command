@@ -238,3 +238,4 @@ find name website
 cd client
 mkdir assests
 mkdir assets
+cd assets
