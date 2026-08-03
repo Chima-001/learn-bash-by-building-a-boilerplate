@@ -305,3 +305,6 @@ find ./client/assets/fonts
 touch ./client/assets/fonts/lato-bold.ttf
 touch ./client/assets/fonts/lato-light.tff
 touch ./client/assets/fonts/lato-light.ttf
+rm ./client/assets/fonts/lato-light.tff
+find ./client/assets/fonts
+find
