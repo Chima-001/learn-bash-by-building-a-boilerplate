@@ -347,3 +347,8 @@ find website-boilerplate
 clear
 echo goodbye terminal
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n ca5ad600-74c8-4e2d-b2c1-66c54624a74d
+cat /proc/self/environ
+echo -n ca5ad600-74c8-4e2d-b2c1-66c54624a74d
