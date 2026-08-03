@@ -320,3 +320,9 @@ ls --color=auto
 echo Yay!
 echo I finished the boilerplate!
 echo one more thing...
+echo I made this boilerplate READEME.md
+echo I made this boilerplate >> READEME.md
+__vsc_prompt_cmd_original
+echo I made this boilerplate README.md
+echo I made this boilerplate >> REAEME.md
+echo I made this boilerplate >> README.md
