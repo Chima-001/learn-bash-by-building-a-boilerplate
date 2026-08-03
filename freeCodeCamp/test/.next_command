@@ -106,3 +106,5 @@ cd test
 pwd
 li
 ls --color=auto
+cd..
+cd ..
