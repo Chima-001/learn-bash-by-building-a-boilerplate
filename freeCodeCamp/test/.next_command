@@ -129,3 +129,4 @@ __vsc_prompt_cmd_original
 more src
 cd src
 pwd
+ls --color=auto
